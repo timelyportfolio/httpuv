@@ -26,7 +26,7 @@ const std::map<std::string, std::string> mime_map = {
   {"jar", "application/java-archive"},
   {"ser", "application/java-serialized-object"},
   {"class", "application/java-vm"},
-  {"js", "application/javascript"},
+  {"js", "text/javascript"},
   {"json", "application/json"},
   {"m3g", "application/m3g"},
   {"hqx", "application/mac-binhex40"},
